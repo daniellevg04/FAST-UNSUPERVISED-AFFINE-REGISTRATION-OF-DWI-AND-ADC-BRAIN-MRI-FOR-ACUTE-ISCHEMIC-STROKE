@@ -10,7 +10,7 @@ The study utilizes the **ISLES 2022 Challenge** dataset, comprising MRI examinat
 * **Moving Image:** Apparent Diffusion Coefficient (ADC) maps.
 * **Evaluation:** Binary lesion masks are strictly preserved to compute post-registration geometric overlap metrics.
 
-* **Data Availability:** Due to licensing restrictions, the ISLES 2022 Challenge dataset cannot be directly hosted in this repository. Researchers can access the full dataset by registering on the official [ISLES 2022 Grand Challenge page](https://isles22.grand-challenge.org/). 
+* **Data Availability:** Due to licensing restrictions, the ISLES 2022 Challenge dataset cannot be directly hosted in this repository. Researchers can access the full dataset by registering on the official [ISLES 2022 Grand Challenge page](https://www.isles-challenge.org/). 
 
 ![Dataset Examples](./figures/islesdata.png)
 
