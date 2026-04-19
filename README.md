@@ -8,7 +8,7 @@ The model corrects spatial misalignment between Diffusion-Weighted Imaging (DWI)
 The study utilizes the **ISLES 2022 Challenge** dataset, comprising MRI examinations from patients with acute ischemic stroke.
 * **Fixed Image:** Diffusion-Weighted Imaging (DWI) serves as the spatial anchor.
 * **Moving Image:** Apparent Diffusion Coefficient (ADC) maps.
-* **Evaluation:** Binary lesion masks are strictly preserved to compute post-registration geometric overlap metrics (e.g., Dice Score, Jaccard Index).
+* **Evaluation:** Binary lesion masks are strictly preserved to compute post-registration geometric overlap metrics.
 
 * **Data Availability:** Due to licensing restrictions, the ISLES 2022 Challenge dataset cannot be directly hosted in this repository. Researchers can access the full dataset by registering on the official [ISLES 2022 Grand Challenge page](https://isles22.grand-challenge.org/). 
 
